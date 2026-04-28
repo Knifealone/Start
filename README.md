@@ -1,4 +1,6 @@
 # Start
 1st one
 <br>
-Author - Sohamjit Bose
+Author - Sohamjit Bose (Inovator)
+<br>
+1st year Btech CSE AI-ML studdent
