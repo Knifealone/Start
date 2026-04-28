@@ -8,7 +8,7 @@
 - Git & GitHub
 
 ## 📌 Projects
-- 💬 Real-Time Chat Application 
+- 💬 Real-Time Chat AI Bot
 
 ## 📫 Contact
 - Email: sohamjitbose1973@gmail.com
