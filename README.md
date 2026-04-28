@@ -8,8 +8,7 @@
 - Git & GitHub
 
 ## 📌 Projects
-- 💬 Real-Time Chat Application
-- 🔹 Matrix Operations in C  
+- 💬 Real-Time Chat Application 
 
 ## 📫 Contact
 - Email: sohamjitbose1973@gmail.com
