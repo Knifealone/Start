@@ -1,6 +1,15 @@
 # Introduction
-1st one
-<br>
-Author - Sohamjit Bose (Inovator)
-<br>
-1st year Btech CSE AI-ML studdent
+# Hi, I'm Sohamjit 👋
+🎓 BTech AI-ML Student  
+💡 Interested in Machine Learning & Web Dev  
+
+## 🚀 Skills
+- C, Python, HTML, CSS
+- Git & GitHub
+
+## 📌 Projects
+- 💬 Real-Time Chat Application
+- 🔹 Matrix Operations in C  
+
+## 📫 Contact
+- Email: sohamjitbose@gmail.com
