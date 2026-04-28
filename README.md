@@ -12,4 +12,4 @@
 - 🔹 Matrix Operations in C  
 
 ## 📫 Contact
-- Email: sohamjitbose@gmail.com
+- Email: sohamjitbose1973@gmail.com
